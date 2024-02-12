@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-color: #B03060;
+    width: auto;
+    height: 10rem;
+    padding: 1rem;
+}
+
+.header img {
+    border-radius: 50%;
+    height: 8rem;
+}
+
+.header h1 {
+    color: white;
+    text-align: left;
+    font-size: 5rem;
+}
+
+button {
+    margin: 1rem;
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    background-color: #DB7093;
+}
+
+button:hover {
+    background-color: #B03060
+}
+
+.footer {
+    margin: 0 auto;
+    margin-top: 80rem;
+    background-color: #B03060;
+    width: auto;
+    height: 10rem;
+    padding: 1rem;
+    color: white;
+}
+
+.tab{
+    background-color: #FFB6C1;
+    height: 90rem;
+    width: 17rem;
+}
